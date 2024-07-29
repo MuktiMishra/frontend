@@ -20,7 +20,7 @@ This repository contains the frontend code for the Social Media App built using 
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/social-media-app-frontend.git
+   git clone https://github.com/MuktiMishra/frontend.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For more information, visit the [backend repository](https://github.com/yourusername/social-media-app-backend)." > README.md
+For more information, visit the https://github.com/MuktiMishra/backend.git" > README.md
