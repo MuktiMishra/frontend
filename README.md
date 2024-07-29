@@ -8,7 +8,7 @@ This repository contains the frontend code for the Social Media App built using 
 - Profile Management
 - Post Creation and Interaction
 - Real-time Updates
-- Responsive Design
+- Responsive Design 
 
 ## Getting Started
 
@@ -19,19 +19,19 @@ This repository contains the frontend code for the Social Media App built using 
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```
    git clone https://github.com/MuktiMishra/frontend.git
-   \`\`\`
+   ```
 2. Navigate to the project directory:
-   \`\`\`bash
+   ```
    cd frontend
-   \`\`\`
+   ```
 3. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 ### Running the Application
 
