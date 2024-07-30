@@ -1,6 +1,6 @@
 # Social Media App - Frontend
 
-This repository contains the frontend code for the Social Media App built using the MERN stack. It leverages React, Redux, and Chakra UI for building a modern, responsive user interface.
+This repository contains the frontend code for the Social Media App built using the MERN stack. It leverages React, Recoil, and Chakra UI for building a modern, responsive user interface.
 
 ## Features
 

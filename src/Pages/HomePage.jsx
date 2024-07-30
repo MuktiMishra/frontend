@@ -1,11 +1,10 @@
 import React from 'react'
 
-const HomePage = () => {s
+const HomePage = () => {
     
   return (
     <div>
-      You're on HomePage!!
-      
+      Youre on HomePage!!
     </div>
   )
 }
